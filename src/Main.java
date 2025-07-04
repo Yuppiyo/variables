@@ -6,12 +6,12 @@ public class Main {
         long myLong = 15000000;
         float myFloat = 4.5f;
         double myDouble = 8.5;
-        System.out.println("Значение перемнной myInt с типом int равно" + myInt);
-        System.out.println("Значение перемнной myByte с типом byte равно" + myByte);
-        System.out.println("Значение перемнной myShort с типом byte равно" + myShort);
-        System.out.println("Значение перемнной myLong с типом byte равно" + myLong);
-        System.out.println("Значение перемнной myFloat с типом byte равно" + myFloat);
-        System.out.println("Значение перемнной myDouble с типом byte равно" + myDouble);
+        System.out.println("Значение переменной myInt с типом int равно" + myInt);
+        System.out.println("Значение переменной myByte с типом byte равно" + myByte);
+        System.out.println("Значение переменной myShort с типом short равно" + myShort);
+        System.out.println("Значение переменной myLong с типом long равно" + myLong);
+        System.out.println("Значение переменной myFloat с типом float равно" + myFloat);
+        System.out.println("Значение переменной myDouble с типом double равно" + myDouble);
 
         System.out.println("Задача №2");
         double value1 = 27.12;
