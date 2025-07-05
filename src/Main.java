@@ -3,7 +3,7 @@ public class Main {
         int myInt = 60000;
         byte myByte = 70;
         short myShort = 28000;
-        long myLong = 15000000;
+        long myLong = 15000000L;
         float myFloat = 4.5f;
         double myDouble = 8.5;
         System.out.println("Значение переменной myInt с типом int равно" + myInt);
